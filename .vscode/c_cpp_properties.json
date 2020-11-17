@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/workplace/linux/linux-4.19.94/include",
+                "/workplace/linux/linux-4.19.94/arch/arm/include",
+                "/workplace/linux/linux-4.19.94/arch/arm/include/generated"
+            ]
+            
+        }
+    ],
+    "version": 4
+}
